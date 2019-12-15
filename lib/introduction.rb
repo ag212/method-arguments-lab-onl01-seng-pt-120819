@@ -1,4 +1,3 @@
-def introduction(name)
+def introduction(name, language)
   puts "Hi, my name is #{name}."
 end
-introduction("Dan")
